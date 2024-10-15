@@ -1,4 +1,4 @@
-# hackathon-judging-system
+# Hackathon Judging System
 
 To run this project you need the following CSVs:
 
